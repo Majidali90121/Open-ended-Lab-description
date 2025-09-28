@@ -1,3 +1,6 @@
+# Open Ended Lab code is in seprate repostry due to github size limit And also rrun code in VS Community 
+- You can download the entire project from here 
+[Download Project](http://github.com/Majidali90121/Open_Ended_Lab-Code/raw/main/main.rar)
 # 💊 Pharmacy Management System
 
 A **C++ Console Application** to manage **patients, medicines, pharmacists, salesmen, and admin operations**.  
@@ -163,4 +166,4 @@ Features:
 - Zulkarnain Mohid-Ud-Din            2024-SE-07
 - Alishba Zakir                      2024-SE-02     
 
-## Note  Project save in winrar file extract it 
+ 

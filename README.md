@@ -82,7 +82,7 @@ Features:
 - 🛑 **Wrong Entry Log** – Invalid actions are saved into a file for tracking  
   ![Wrong Entry](./Images/28.png)  
 - 📊 **Daily Work Report** – Track admin activities in one place  
-    
+    ![Pharmacist time track](./Images/26.png)
 
 ---
 

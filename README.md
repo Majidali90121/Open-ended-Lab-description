@@ -135,11 +135,11 @@ Features:
 👉 All patient data is managed securely within the system.  
 
 - 📋 **All Patients Stored** – Maintain patient records in the database  
-  ![Patients](./Images/19.png)  
+  ![Patients](./Images/18.png)  
 - ⏰ **Timestamp** – Patient entry stored with exact time  
-  ![Patient Time](./Images/20.png)  
+  ![Patient Time](./Images/21.png)  
 - 🔒 **Validation** – If a patient is not registered, medicines cannot be issued  
-  ![Validation](./Images/22.png)  
+  ![Validation](./Images/23.png)  
 
 ---
 
@@ -147,9 +147,9 @@ Features:
 👉 The system generates reports for medicines, sales, and activities.  
 
 - 📦 **Total Medicines Added**  
-  ![Medicines Added](./Images/18.png)  
+  ![Medicines Added](./Images/20.png)  
 - 💹 **Sales Report**  
-  ![Sales Report](./Images/21.png)  
+  ![Sales Report](./Images/22.png)  
 
 ---
 

@@ -82,7 +82,7 @@ Features:
 - 🛑 **Wrong Entry Log** – Invalid actions are saved into a file for tracking  
   ![Wrong Entry](./Images/28.png)  
 - 📊 **Daily Work Report** – Track admin activities in one place  
-  ![Admin Report](./Images/24.png)  
+    
 
 ---
 
@@ -127,7 +127,7 @@ Features:
 - 🗂️ **Expired Medicines File** – Wrongly added expired medicines are stored in a separate file  
   ![Expired File](./Images/17.png)  
 - 🖨️ **Printed Bill** – Bill is saved into a file for records  
-  ![Printed Bill](./Images/23.png)  
+  ![Printed Bill](./Images/24.png)  
 
 ---
 
